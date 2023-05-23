@@ -1,7 +1,8 @@
+package programmers.연습문제;
 
 import java.util.*;
 
-class Solution {
+class 뒤에_있는_큰_수_찾기 {
 	public int[] solution(int[] numbers) {
 		int[] answer = new int[numbers.length];
 

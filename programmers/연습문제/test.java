@@ -2,7 +2,7 @@ package programmers.연습문제;
 
 import java.util.*;
 
-class Solution {
+class test {
 	public String[] solution(String[] players, String[] callings) {
 		Map<String, Integer> player = new HashMap<>();
 		Map<Integer, String> rank = new HashMap<>();
